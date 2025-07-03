@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Donaldo Banze
-- 👀 me intersso po tecoloia , sou um Hacker Hetico, web develop
-- 🌱 sou um pesquisador hacker apaixonado pelo mundo da cibernetica
-- 📫 soum um uma pesoa simples amigavel interesante de se conhever
-- 😄 XDark7
-- ⚡ Gammer 
-<!---
-Donaldo195/Donaldo195 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Olá! Eu sou Donaldo Banze
+
+ Desenvolvedor Web Frontend | Entusiasta em Segurança da Informação | Hacker Ético em formação  
+
+---
+
+Sobre mim
+
+Sou apaixonado por tecnologia, especialmente pelo universo da **web** e da **cibersegurança**. Atuo como desenvolvedor frontend e também dedico meu tempo à pesquisa sobre **hacking ético** e **tecnologias emergentes**. Valorizo o aprendizado contínuo, os desafios lógicos e o poder da informação segura.
+
+---
+
+ Desenvolvimento Web moderno e acessível  
+ Cibersegurança e práticas de hacking ético  
+ Pesquisa, inovação e aprendizado constante  
+ Colaboração com projetos abertos e comunidades  
+ Gamer nas horas vagas (XDark7)
+
+---
+
+ Vamos nos conectar
+
+Portfólio: *(coloque o link se tiver)*  
+ Email: *(coloque seu email profissional ou de contato)*  
+ Sempre aberto para colaborações e novas ideias!
+
+---
+
+> "Tecnologia não é apenas código, é também ética, impacto e transformação."
