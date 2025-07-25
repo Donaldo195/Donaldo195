@@ -20,8 +20,8 @@ Sou apaixonado por tecnologia, especialmente pelo universo da **web** e da **cib
 
  Vamos nos conectar
 
-Portfólio: *(coloque o link se tiver)*  
- Email: *(coloque seu email profissional ou de contato)*  
+
+ Email: donaldomanuel3@gmail.com 
  Sempre aberto para colaborações e novas ideias!
 
 ---
